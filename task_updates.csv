@@ -1,0 +1,417 @@
+update_id,task_id,message_id,from_number,text_body,update_type,update_description,created_at
+1635fc83,5b936130,A4cEiRpyUnmoEpJ4LKsEjg-gmYBq53VvMR4vA,919352032003,Please share details with them,completion,The message indicates that the task to share details with them has been completed.,2025-04-24 13:26:39
+6ac672a2,7069ccf6,Ovho9GZ0Slw0Pw-gk8Bq53VvMR4vA,919352032003,new task: sue this D2C brand for $10Mn,modification,"The message provides a new task that is similar to Task 15, indicating a potential modification or reiteration of the task to sue a D2C brand for $10Mn.",2025-04-24 13:26:39
+507a0299,cdd775f3,P3xG0ESZQi7CBw-gpIBq53VvMR4vA,919036082668,"Hey Anirudh!, Could you please share the exact size specifications you require and your budget? Additionally, would you be open to exploring options from other reputed brands such as Adidas, Puma, Reebok, UnderArmour, HRX, Decathlon, if suitable?",question,"The message is asking for size specifications and budget, and inquiring about openness to exploring options from other reputed brands.",2025-04-24 13:26:41
+a8dd13ca,25f7a78c,PrAoIgHk9pA.iUs-wjsBq53VvMR4vA,919619000208,please find cheaper alternatives in book stores @918676049781,modification,Request to find cheaper alternatives in book stores.,2025-04-24 13:26:41
+a54d9a31,ee63b5c1,LsEiVmwqwWmUJgrIfe1Upg-giQBq53VvMR4vA,918676049781,"Rum:
+Old monk - 600
+Old monk gold - 1000",progress,Prices for Old Monk and Old Monk Gold rum have been found.,2025-04-24 13:26:41
+5c6d2e77,ee63b5c1,pvzIQXRggtok5.sHqmYHUw-gpYBq53VvMR4vA,918676049781,"Vodka:
+Magic moments - 1200
+Romanov - 900
+
+Whiskey:
+After dark - 1250
+Dsp black - 800",progress,Provided prices for vodka and whiskey options.,2025-04-24 13:26:41
+03f95498,799dd0ed,PrCSdD0AzzRFO7g-wrABq53VvMR4vA,919619000208,"1. Low quality / too thin
+2. nice
+3. I like a lot - can you find this somehwhere with reviews?
+4. pass",question,Request to find a product with reviews.,2025-04-24 13:26:41
+9c81107b,80693d65,wgsYrelut6e6aB0iub.mBw-wocBq53VvMR4vA,919619000208,No need for cab,modification,The cab for return home is no longer needed.,2025-04-24 13:26:41
+9fb0ae5e,2c8068ad,0pQGVotw7MMgTsWgryxw7A-wtQBq53VvMR4vA,919619000208,Please web check-in,question,Request to perform web check-in.,2025-04-24 13:26:41
+7de74389,5269fa74,Opn26LvoyGNTKQ-gjkBq53VvMR4vA,919352032003,"dont have it right now, can send in 2 hrs but would be late
+need them to come today afternoon or evening for a short visit where we can discuss the budget and everything",modification,Request for scheduling a visit today afternoon or evening to discuss the budget and other details.,2025-04-24 13:26:41
+1f5c575c,86f4fa9d,R_1vAW3Qtc9YHVva3bgvVA-gsYBq53VvMR4vA,917795337920,Could you share Pictures,question,Request to share pictures.,2025-04-24 13:26:41
+abfc6eb6,10feb4d5,PrB6.fYna4ATf28-wsEBq53VvMR4vA,919619000208,"please suggest some rugs for my room
+budget less than 3-5k
+size 4ftx 6ft +-1 ft",question,Request for rug suggestions within a specified budget and size range.,2025-04-24 13:26:41
+17de0520,962df638,PrCKLuafsL_H5DY-wg8Bq53VvMR4vA,919619000208,"Hi, need to buy gym wear - 2 tshirts and one short
+
+can you please send options? Check cult first if they have offers
+otherwise Nike also usually has in store offers - I can go and buy.",modification,"Request to provide gym wear options, specifically 2 t-shirts and one short, with a preference to check Cult for offers first, and Nike as an alternative.",2025-04-24 13:26:41
+d98417e9,b55b848c,PrBgmUwfTu5rtEs-wq4Bq53VvMR4vA,919619000208,Can someone please schedule wash + dry + iron pickup for me anytime Friday? works as long as the time to get it back is <=2 days,modification,"Request to schedule laundry pickup for wash, dry, and iron on Friday with a return time of 2 days or less.",2025-04-24 13:26:41
+6f9a5956,5474b2fd,dHFMayCYN.ssULPfw2MbWQ-wh8Bq53VvMR4vA,919619000208,Can you find christmas pyjamas?,question,The message is a question related to finding Christmas pyjamas.,2025-04-24 13:26:44
+55b847e4,5474b2fd,k1JKmkL7ow1CtUtN.OFz9A-wkUBq53VvMR4vA,919619000208,No independent christmas/ red  / white / green pyjamas,modification,"Request to avoid independent Christmas-themed or red, white, and green pyjamas.",2025-04-24 13:26:44
+388ce575,44b57d8a,uFcZMdM5p0BCmNC20bQYQw-whMBq53VvMR4vA,919619000208,Please check quality,question,Request to check the quality of an item or service.,2025-04-24 13:26:44
+d13e11ea,dad4e4a3,P_USsBiw4Pq8QA-gtIBq53VvMR4vA,919036082668,"I'm sorry, Its out of stock, It is a kid's sweatshirt so it would be difficult to find the size required,",progress,"The required kid's sweatshirt is out of stock, making it difficult to find the needed size.",2025-04-24 13:26:44
+4f204379,b55b848c,FW_YWw6dQ1C587pLxYG67A-gsYBq53VvMR4vA,919036082668,Hey Anirudh! Has the laundry been delivered?,question,Inquiry about the delivery status of the laundry.,2025-04-24 13:26:44
+d2bdc7c4,9845aea0,P75gif2cJtbaEQ-gm4Bq53VvMR4vA,919036082668,"1. Red Solid Relaxed hoodie - 1999/- https://www.snitch.co.in/products/red-solid-relaxed-fit-hoodies-4mswh9899-01?variant=45124372299938
+2. MACMERISE Christmas Squad Friends Round Neck - 1999/- https://www.shoppersstop.com/macmerise-christmas-squad-friends-round-neck-mens-sweatshirt/p-SWMBKFR8996
+3. Found a sweatshit from a nearby Thrift store, - Siri JP Nagar - 1100/- Attaching the image below. 
+
+Please note that we have been trying to get same/similar options. We will be making an In-Store Purchase tomorrow, and we will be sharing more pictures as we keep finding them. The sweatshirt will be delivered to you by noon tomorrow!
+There were not many options available on the websites of trusted brands, hence we have taken this step. Please let us know if you are okay with this.",progress,"The message provides an update on the search for sweatshirt options, including links to potential purchases and a plan for an in-store purchase.",2025-04-24 13:26:44
+7025fd62,cdd775f3,PrBFB5kkXPnJB80-wpwBq53VvMR4vA,919619000208,how will you recommend without checking size? i never told you my size,question,"The message questions how a recommendation can be made without knowing the size, indicating a need for size information for the task of requesting size specs and brand options.",2025-04-24 13:26:44
+209f911e,cdd775f3,P4CNL.ckAOr68g-guABq53VvMR4vA,919036082668,"We do have the size required from before, don't worry Anirudh, we got this covered for you !",completion,The required size specifications have been confirmed as available.,2025-04-24 13:26:44
+ccf32672,6d13d105,PrAfQsAO2LGEyyM-wr4Bq53VvMR4vA,919619000208,"Please help me tell me if Pixel latest phone is really good? help me decide if I should buy it
+
+find the best price in India and the US",question,"Inquiry about the quality and purchase decision for the latest Pixel phone, and request to find the best price in India and the US.",2025-04-24 13:26:46
+8cc14d92,63e213e7,PrCigZxmeaGFsfU-wk8Bq53VvMR4vA,919619000208,"Hi, please find someone who can either replace the broken glass of dining room table or get a new one at affordable prices",modification,Request to find someone to replace the broken glass of the dining room table or get a new one at affordable prices.,2025-04-24 13:26:46
+fb726558,b683c145,PrApqCxLspSn5qc-wgMBq53VvMR4vA,919619000208,Please help me get some artificial plant of different sizes - where can I buy etc,question,"Request for assistance in finding artificial plants, including where to buy them.",2025-04-24 13:26:46
+785e38e9,10806d7f,PrA5lotwT7VmFec-wugBq53VvMR4vA,919619000208,"I don't know whats the difference, please advise",question,Request for clarification on differences,2025-04-24 13:26:46
+3e84be85,2619d795,k8LnXnAiAPeAH6PWuPUM7A-wi4Bq53VvMR4vA,919619000208,@917795337920 can you change the reservation to 10 people instead of 8,modification,Change the reservation to 10 people instead of 8.,2025-04-24 13:26:46
+769de55c,49d97fc2,7Lg2arPw3F3WeOgMR_QCsw-wvMBq53VvMR4vA,919619000208,"What is marques brownee saying about them? What's the public verdict? 
+
+Are they as good as Iphone 16?  How's the camera compared to iphone? What are the top 3 new features?",question,"Inquiry about Marques Brownlee's review and comparisons, specifically regarding public verdict, comparison to iPhone 16, camera quality, and top 3 new features.",2025-04-24 13:26:46
+76937bcf,63e213e7,JKWyinKnrm.1YU.BS0l_mw-gtoBq53VvMR4vA,918676049781,"In case you don't know, we can send someone tomorrow and get the exact thickness of glass and then we can proceed.",progress,Arranging to measure the exact thickness of the dining table glass before proceeding.,2025-04-24 13:26:46
+71cb9270,63e213e7,tkJqVR_oRrAcQWWIEzkzog-gjcBq53VvMR4vA,918676049781,"Sure, Do you have any information regarding the existing glass thickness.",question,Inquiry about the existing glass thickness for the dining table.,2025-04-24 13:26:46
+d13a99a7,63e213e7,dr2Pq0JN2caH2qDF2tfQ3A-grIBq53VvMR4vA,918676049781,"Glass is available in 8 mm and 10 mm thicknesses. While 8 mm is suitable for use as a tabletop, opting for 10 mm is recommended for enhanced durability and longevity.",progress,Information on glass thickness options for replacing or buying a new dining table glass.,2025-04-24 13:26:46
+2f536c99,b683c145,OvoQ.usraUYs7A-gj8Bq53VvMR4vA,916351492258,Please allow us till EOD on this. We are currently working on options for artifical flowers,progress,"Working on options for artificial flowers, update expected by end of day.",2025-04-24 13:26:46
+7b76bfe5,63e213e7,IgqSfT8GCmxrtbiwkgYrDw-ggkBq53VvMR4vA,918676049781,The glass will be replaced and the vendor has assured that the design will be the same as existing glass.,progress,The vendor has assured that the replacement glass design will match the existing glass.,2025-04-24 13:26:46
+1741f7de,64a5fd37,PrAXRovFG1KkUQo-wogBq53VvMR4vA,919619000208,Can you share some online recommendations for this for a big plant?,question,Request for online recommendations for a big plant.,2025-04-24 13:26:46
+e841dce2,63e213e7,PrDELai2rCVXFUs-wkEBq53VvMR4vA,919619000208,I want one exactly same as the current glass,modification,Request to replace or buy a new dining table glass that is exactly the same as the current one.,2025-04-24 13:26:46
+dc290c4e,594c3611,PrCVLKw8gNXrJjs-wkIBq53VvMR4vA,919619000208,please share 9414063872 (Manish) as the number,completion,The phone number for Manish has been shared.,2025-04-24 13:26:46
+bb4d90c3,00db7ca8,OtsMenSxDCeeVO9ZMkTY2w-wqUBq53VvMR4vA,919619000208,"Please make it 
+7/7;30/8 AM on both 30 and 31st",modification,Modify the meeting times to 7/7:30/8 AM on both 30th and 31st.,2025-04-24 13:26:46
+7ac499db,f1b335c2,q97amWyfwjpUu7.DjwVItg-gtEBq53VvMR4vA,918676049781,Pickup time is 11:15 AM. Let me know if this is fine or if I should update this.,question,Confirmation or modification request for the pickup time with flatmate.,2025-04-24 13:26:46
+f1b78541,2ac1097f,PrA6oUzXr_Q6eUM-wrkBq53VvMR4vA,919619000208,"Before booking the badminton slot, can confirm the cancellation policy for slots?",question,Inquiry about the cancellation policy for badminton slots before booking.,2025-04-24 13:26:46
+aa28235c,2ac1097f,qRn6W3x6ZFxLFvDuBHsFbQ-gqkBq53VvMR4vA,917795337920,"Hi, have you made up your mind about the Badminton slot booking?",question,Inquiry about the decision on the Badminton slot booking.,2025-04-24 13:26:46
+6cf7662f,9618a8af,PrCsk5pmv7XIfV8-wsYBq53VvMR4vA,919619000208,5. Please share places to eat and see I can take my parents in BLR,question,Request for recommendations on places to eat and visit in Bangalore (BLR) for taking parents.,2025-04-24 13:26:46
+313f7bed,820c145b,PrD.W8IBnsuZTmE-wrwBq53VvMR4vA,919619000208,full refund?,question,Inquiry about the possibility of a full refund.,2025-04-24 13:26:46
+3a7dcc41,6a1dc59f,YiCQk8EB9pqA96_4OfCp0g-wr8Bq53VvMR4vA,919619000208,Please recommend Coldplay jackets and tshirt,question,Request for recommendations on Coldplay jackets and t-shirts.,2025-04-24 13:26:49
+f3fec458,35073479,9iwh7fG6nktM4oDrfWh9Ig-wn4Bq53VvMR4vA,919619000208,Please order some snacks for 5 people to EF office for my team,modification,Order snacks for 5 people to EF office for the team.,2025-04-24 13:26:49
+8c17930a,c7dfb3f3,rsldcXaDTA834_SX91gQpg-wosBq53VvMR4vA,919619000208,Please order chicken and rice bowl with diet coke to ef office,modification,Order chicken and rice bowl with diet coke to EF office,2025-04-24 13:26:49
+06d6ce2f,15a5dfd3,jZ51zxTBDOvf9C6TUkYrYg-whQBq53VvMR4vA,919619000208,"Please find this pillow in India and tell me 2-3 options
+
+https://www.instagram.com/reel/DD5mUscxWPZ/?igsh=M3M2cWxvanV4ZHBu",question,Request for 2-3 pillow options in India based on the provided Instagram link.,2025-04-24 13:26:49
+748f7c73,aa2faaf5,Ze1f9G7DBRC_PBlLKRpLdA-wh4Bq53VvMR4vA,919619000208,Can they come post 8 PM? Check with Het if he will be home.,question,Inquiry about Het's availability post 8 PM.,2025-04-24 13:26:49
+87bf244a,701969ea,PrA6QFkxkHYTrHk-wjkBq53VvMR4vA,919619000208,"Need help finishing long pending UK tax remittance
+1. need push and motivation - keep reminding me until I do it; worst case end of this month
+2. ask me to write down all specific things I need help with
+3. Find me someone who can help with this. Maybe a CA?",modification,"The message requests ongoing reminders and motivation to complete the UK tax remittance, asks for assistance in identifying specific needs, and suggests finding a Chartered Accountant (CA) for help.",2025-04-24 13:26:49
+16ce9dd9,9141f8a7,PrDTqlU_sqpC_dk-wuMBq53VvMR4vA,919619000208,"1. for jackets, do they seem low quality? Can you recommend some more? I think there some denim jackets too
+2. For t-shirts, please recommend oversized only (high quality pls)",question,"The message is asking for recommendations on jackets and oversized t-shirts, specifically questioning the quality of jackets and requesting high-quality oversized t-shirts.",2025-04-24 13:26:49
+fae3f04b,57e9a589,PrCsXGSU5f7ml1Q-wrYBq53VvMR4vA,919619000208,"please order some fish dish for me to EF office Rs 400 or less 
+healthy",modification,Request to order a healthy fish dish for EF Office with a budget of Rs 400 or less.,2025-04-24 13:26:49
+cb13de6b,130b2f58,PrC_XX0nTklINVs-goYBq53VvMR4vA,918676049781,"Hi, As last time we had issues with delivering to the same office, could you please provide the name and contact number of the recipient? This will help ensure a smooth delivery experience.",question,Request for recipient's name and contact number to ensure smooth delivery.,2025-04-24 13:26:49
+406542f3,130b2f58,PrA_srB5QJrNi9U-wvoBq53VvMR4vA,919619000208,can someone ack this? nobody asked me what name or phone number of anything how would you know who to give it to?,question,"The sender is questioning about the recipient's name and contact number, which relates to providing this information.",2025-04-24 13:26:49
+ca2a7034,701969ea,OgNQD4OONCg4Gw-ggIBq53VvMR4vA,916351492258,Yes - apologies for the delay here. We haven’t done UK tax remittance in the past - we will look into the procedure here and set up a reminder system for you on our end,progress,The message indicates that they are looking into the procedure for UK tax remittance and plan to set up a reminder system.,2025-04-24 13:26:49
+e68089e3,9e07e452,PrBE1E0r0fbtSa8-gr8Bq53VvMR4vA,918676049781,"Hi, I reached out to your flatmate, but he’s currently at the office. Please let me know if someone else can receive it, or if you’d prefer to have it scheduled for tomorrow.",question,Inquiry about alternative arrangements for package receipt or rescheduling for tomorrow.,2025-04-24 13:26:49
+955c60cb,49d97fc2,TFOESSOqGz3FhS5W_ZcSkA-gnwBq53VvMR4vA,917795337920,"Hey Anirudh, We've compared all the Pixel 9 series models along with their prices, shown in the attached image.
+Here's a short comparison :
+Pixel 9( series):
+1. 50MP main, 48MP ultrawide, great for low-light photography.
+2. Budget-friendly.
+
+iPhone 16:
+1. 48MP main, 12MP ultrawide, exceptional video quality.
+2. A18 chip for gaming and multitasking.
+Inshort:
+Pixel 9 excels in camera quality, while iPhone 16 stands out in performance and video.
+
+ Coming to the reviews:
+MKBHD gave a positive review of the Pixel 9 series, noting it as a solid flagship. He highlighted the excellent integration of hardware, AI, and a well-rounded user experience.The camera quality was also praised, making it a strong offering overall.",progress,"The message provides a comparison and review of the Pixel 9 series, including Marques Brownlee's (MKBHD) positive review, which relates to the research on Marques Brownlee's review and comparisons.",2025-04-24 13:26:49
+172aceba,63e213e7,t2qARDb6bH1TqTLKI.7sMg-grcBq53VvMR4vA,918676049781,"RCA On Table Glass:
+
+We were waiting for the vendor to decide the thickness of the glass using the photo of the existing glass.",progress,Waiting for the vendor to decide the thickness of the glass using the photo of the existing glass.,2025-04-24 13:26:49
+f81dbb9e,63e213e7,PrD6qc1a8OtVQ7A-gu4Bq53VvMR4vA,918676049781,"Hi @919619000208, we have scheduled a visit for the table glass and the guy will be there around 2 PM.",progress,"Scheduled a visit for the dining table glass repair/replacement, with the technician arriving around 2 PM.",2025-04-24 13:26:49
+8dde25b4,63e213e7,PrAwTMgDRNvu8Xk-gmQBq53VvMR4vA,918676049781,"Hi Anirudh, We contacted the vendor to check the ETA for the table glass, and they assured us it will be delivered tomorrow afternoon.",Progress,Vendor confirmed the table glass will be delivered tomorrow afternoon.,2025-04-24 13:26:49
+33e7f7aa,63e213e7,PrCuIRumMsxnMy0-wkkBq53VvMR4vA,919619000208,@918676049781 pls check with the glass vendor on the ETA some time today evening,progress,Checking with the glass vendor on the ETA for replacing or buying new dining table glass.,2025-04-24 13:26:49
+cabba23b,63e213e7,HDMon0Z9QYGSsGIbGNBZmg-gv8Bq53VvMR4vA,918676049781,"Hi @919619000208, I just contacted the vendor again and the glass is ready. He can deliver around 7 PM if that works for you.",Progress,The vendor has confirmed that the glass is ready and can be delivered around 7 PM.,2025-04-24 13:26:49
+7c5208b9,57e9a589,AuKPfnqRLxjqk.1d6ameiQ-wsgBq53VvMR4vA,919619000208,"Order dinner for me to ef office
+Budget less than 400
+Fish food something (healthy preferably)",modification,Request to order a fish dish for dinner with a budget constraint of less than 400.,2025-04-24 13:26:49
+5f3525f8,b6a72179,PrCyqTe8qkNOiWk-wvQBq53VvMR4vA,919619000208,please order fish curry that you ordered last time @918676049781,modification,"Request to order the same fish curry as last time, with a provided contact number.",2025-04-24 13:26:52
+fed35552,b6a72179,PrCfU5rGYy44qUk-grQBq53VvMR4vA,918676049781,"Hi Anirudh, We have ordered Homestyle Fish Curry with steamed rice for you and the ETA is 30 Mins.",progress,"Homestyle Fish Curry with steamed rice has been ordered, and the ETA is 30 minutes.",2025-04-24 13:26:52
+5b4da7f4,3c44612a,P4bM1Gy7z2BrWg-gkkBq53VvMR4vA,919036082668,"Noted Anirudh, We will look into it and try to get a solution by doing some research. Post that we will consult the CA.",progress,The message indicates that research will be conducted and consultation with a CA will follow to address UK tax and financial issues.,2025-04-24 13:26:52
+6d1ac6d4,ba26c59e,PrCNPF1L3eYMKTc-wpUBq53VvMR4vA,919619000208,can you get someone to take it from the EF office and get this fixed? 850 works,progress,"Request to retrieve and fix an item from the EF office, with a note that 850 works.",2025-04-24 13:26:52
+3338e99e,ced2a00b,PrBEZbC7XYReVfA-wgUBq53VvMR4vA,919619000208,"please find gift ideas for my brother in law 
+age: 33
+- not impressed by anything
+- management consultant
+- extremely organised and disciplined
+- trying to be fit (find it hard to maintain routine, posture needs to be fixed)
+- has a dog - beagle
+- recently had a baby
+- budget 1k-2k
+
+need in nasik by 18th",modification,"The message provides additional details and requirements for the gift ideas for the brother-in-law, including age, interests, and budget, as well as a delivery location and deadline.",2025-04-24 13:26:52
+73ab052d,15a5dfd3,P_5FEHpsi4TGwg-gqIBq53VvMR4vA,919036082668,"Hi Anirudh,
+
+We’re sorry we couldn’t find better options for baby pillows, as most of them need to be imported from either the US or UAE. However, for the available options:
+
+The first one can be delivered from the FirstCry Nashik store before the 18th.
+The third one is expected to arrive by 13th January.
+Let us know how you’d like to proceed.",progress,"The message provides an update on the availability and delivery timelines for baby pillow options, mentioning that most need to be imported, but some options are available with specific delivery dates.",2025-04-24 13:26:52
+dc66570f,17e3a6a4,PrCtOBsbxt.Euzc-wmEBq53VvMR4vA,919619000208,"please send in 30 mins, just 2 phone calls 
+need to get it fixed by 7 PM",modification,Request to make 2 phone calls and get it fixed by 7 PM.,2025-04-24 13:26:52
+81e2407a,64a5fd37,Oo3do2dAp0W1Kg-gqgBq53VvMR4vA,916351492258,Noted. On it right now. Will send options near you by 7PM,progress,The message indicates that options for a big plant will be sent by 7 PM.,2025-04-24 13:26:52
+f08cb048,03ff1376,PrDVyX5S_IgJLeM-gnMBq53VvMR4vA,918676049781,"Hi Anirudh, We have found a local vendor who has agreed to deep clean your bedroom at Rs.1200. Shall we book this for sometime tomorrow?",question,Inquiry about booking a deep cleaning service for the bedroom at Rs.1200 for tomorrow.,2025-04-24 13:26:52
+e2238ea4,03ff1376,PrB1FWdT3304oAc-wpkBq53VvMR4vA,919619000208,"got my test done yday. Apparently, there's a lot of dust and tiny insects in my room. 
+
+Can you help me find someone to deep clean my room (including curtains, fans, etc)? Ideally today or tomorrow first half.",modification,"Request to find someone to deep clean the room, including curtains and fans, ideally today or tomorrow first half.",2025-04-24 13:26:52
+cc147f43,699dbea0,PrBZ8JrCG2D4xJk-wq0Bq53VvMR4vA,919619000208,[urgent] can you find the official and unofficial shop in HSR that can stick the screen of my pixel 6 to the body? the screen is 80% working so doesn't need repair. Just need to stick it.,modification,Request to find both official and unofficial shops in HSR to stick the Pixel 6 screen to the body.,2025-04-24 13:26:52
+2d01649f,130b2f58,_MAwHqUCu_5XXz59QDclqg-gsEBq53VvMR4vA,919036082668,"Hey Anirudh, what's the name and contact number for the delivery?",question,Request for the recipient's name and contact number for the delivery.,2025-04-24 13:26:52
+f534fbb2,2e82fae5,x9rJtSDeTuiSK6qsSopfWw-gggBq53VvMR4vA,919036082668,"Hey Anirudh, the nearest stores in Nashik do not have in store stock for the same. Placing order via the website is showing delivery by 17th Jan. Should we place the order?",question,Inquiry about placing an order online due to lack of in-store stock and delivery timeline.,2025-04-24 13:26:52
+c4dbeeb4,3c44612a,PwpozE0iplJlnQ-gu8Bq53VvMR4vA,919036082668,"There's no issue with checking for 1.  I recommend you to check for the P60 issued by the employer, before signing in to the portal. 
+For 2. As a non-resident, you can claim back tax and personal allowances on any UK income you received in the current tax year or in the last 4 tax years. The deadline for submitting your online self-assessment tax return for the 2022/23 tax year (which ended on April 5, 2023) was January 31, 2024. you may be subject to late filing penalties",progress,"The message provides information on checking the P60 issued by the employer and details about claiming back tax and personal allowances as a non-resident, as well as the deadline for submitting the online self-assessment tax return.",2025-04-24 13:26:52
+2f9c8b21,1d18ca3f,PrACR0a6EEWDNME-woYBq53VvMR4vA,919619000208,Can you also check if it's too late for task 1 and 2 of still both possible?,question,Inquiry about the feasibility of tasks 1 and 2.,2025-04-24 13:26:52
+d3f68175,cd740c1f,PrDglwIQ.aYmvYE-wqEBq53VvMR4vA,919619000208,Please find GP doctors near EF office available for a checkin around 7 PM. I am having chest pains and Im worries I might get a heart attack soon. Or it could be gas. Either way need some inputs froma. doctor. Please decide based on this who's the right doctor.,modification,Request to find GP doctors near EF office available for a check-in around 7 PM due to chest pains.,2025-04-24 13:26:52
+cad76319,701969ea,P4OvEMIryypD9w-gpYBq53VvMR4vA,919036082668,"Hi Anirudh, 
+To help you with the UK Remittance, we have found a CA. We are sharing the contact with you. He can help you all the information. 
+CA Kumar Ramachandran - +91 98457 20984",progress,"A CA has been found to assist with UK tax remittance, and contact details have been shared.",2025-04-24 13:26:52
+6b53d668,f9015d54,csLOHc9NklpiQaSgZ9rQ_w-wgoBq53VvMR4vA,919619000208,"Hi, didn't get response on this the whole day. Need to order the baby pillow immediately so it reaches NSK before 18th. Please prioritise.",modification,Request to prioritize the order of the baby pillow to ensure delivery before the 18th.,2025-04-24 13:26:52
+312e3a60,3c44612a,hXvum1KDPwX.gqVZ0zSSIA-gu0Bq53VvMR4vA,919036082668,"Hey Anirudh, this is a reminder about UK remittance. 
+Also, please share with us the list of things you need help with!",question,Reminder about UK remittance and request for a list of things needing help.,2025-04-24 13:26:52
+2b795c1b,855994fa,5L.EIJ5.AyR8x6IBHVWdcQ-wswBq53VvMR4vA,919619000208,"For baby, need more recommendations. I have seen a few on Instagram. Please make sure of the quality and if it's skinf friendly before sharing.
+
+I like #5 for me. Can you see if it needs a pillow cover etc",modification,Request for more baby product recommendations with a focus on quality and skin-friendliness.,2025-04-24 13:26:52
+a654287c,5c63424b,gpt4d8dQdkjra_hM9zJgKQ-wosBq53VvMR4vA,919619000208,"Can you figure out how to order this thing that burns in this?
+
+https://www.instagram.com/reel/DDm56HKxCpx/?igsh=MWZydWc1dmE3cTZjMQ==",question,The message is asking for assistance on how to order an item featured in an Instagram reel.,2025-04-24 13:26:52
+8b011254,f4479542,PrCxb66LkP0XAK8-wjwBq53VvMR4vA,919619000208,can you start the first task now?,progress,Request to start the first task.,2025-04-24 13:26:54
+6fe9b3ac,aca76a06,PrB5hzHXkFqZFiQ-wp0Bq53VvMR4vA,919619000208,please make sure i dont get the call,modification,Request to ensure the user does not receive a call.,2025-04-24 13:26:54
+0a13c376,03ff1376,NJoFQSXaa08Y6Q4R1QA_eg-grABq53VvMR4vA,918676049781,"Hi @919619000208, I negotiated with the vendor and they are ready to do the deep cleaning of your bedroom for Rs.1000. Please confirm what time works best for you.",progress,Negotiated price for deep cleaning of the bedroom and awaiting confirmation of the preferred time.,2025-04-24 13:26:54
+eff4d167,95e4e7c3,PrBKjOWQ_bYkkB4-wpEBq53VvMR4vA,919619000208,please share consulation cost in advance,question,Request to share the consultation cost in advance.,2025-04-24 13:26:54
+7e41c68d,6c82f628,Px7Is2Mwxd9l3A-guwBq53VvMR4vA,919036082668,"Noted, The appointment has been booked under your name. The consultation fee is 800/-",completion,"The appointment has been booked under the user's name, and the consultation fee is 800/-.",2025-04-24 13:26:54
+be40b90f,99772117,PrAB0owk5dgf1Bg-wmYBq53VvMR4vA,919619000208,"book Dr priya for 7 
+consulation cost?",question,Inquiry about the consultation cost for booking Dr. Priya.,2025-04-24 13:26:54
+05d603a4,03ff1376,PrBqvrQfvExTr08-gqABq53VvMR4vA,918676049781,"Yes the cleaning includes: 
+Dusting: Fan, bed, curtains, cupboard from outside, mirror, etc
+Wet Wiping: Fan, furniture
+Mopping: Floor and corners
+
+Last I negotiated they agreed at 1200, but will try again and update you.",progress,Cleaning service details and negotiation on price.,2025-04-24 13:26:54
+52f2ae3e,285b7fe3,PrC5K5bklUQ6Pys-wp8Bq53VvMR4vA,919619000208,"@918676049781 can you ask what all is covered int he Rs 1200 cleaning service?
+
+would they clean the fans? dust the curtains, etc?
+
+can they come today at 8 PM?
+
+can you negotiate and bring to 1000?",question,"Inquiry about what is covered in the Rs 1200 cleaning service, including cleaning fans and dusting curtains, availability for today at 8 PM, and negotiation to reduce the price to 1000.",2025-04-24 13:26:54
+236fec8a,25f7a78c,PrBycCOgK_bJGX8-gqMBq53VvMR4vA,918676049781,"Hi Anirudh, The Amazon link you shared is for the hardcover edition priced at ₹1,641. However, we found the paperback version on Flipkart for just ₹249, with an ETA of January 28.
+Link - https://shorturl.at/JtSUL
+
+Shall we go ahead with Flipkart?",question,"The message is asking whether to proceed with purchasing the paperback version of a book from Flipkart, which is a cheaper alternative to the hardcover edition found on Amazon.",2025-04-24 13:26:54
+ae120772,0acb7098,cXvUN0qLV75ATR7brtCitQ-wgsBq53VvMR4vA,919619000208,Please book A1,completion,Booking A1 as requested.,2025-04-24 13:26:54
+fcc5c8c7,5c63424b,PrDJSJGRB0h8yxc-gv4Bq53VvMR4vA,918676049781,"Sure, We’ve placed the order and provided your contact number for communication purposes.",completion,The order has been placed and the contact number has been provided for communication purposes.,2025-04-24 13:26:54
+b5dc4662,dfd1d4d1,OpYMSshDwBmsbg-glABq53VvMR4vA,918795214737,"Yes confirmed the availability, porter is being booked
+The guy is still to be assigned",progress,"Porter is being booked, but the guy is still to be assigned.",2025-04-24 13:26:54
+804abfdc,01b2ea6d,PrCikUAw_XRmBmA-wuUBq53VvMR4vA,919619000208,"some miscommunication 
+call him ‪+91 98702 95550‬ Vijay Palve and mention ""Mittal madam"" 
+but first pook porter please",modification,"The message indicates a modification to the task by requesting to first book a porter before calling Vijay Palve and mentioning ""Mittal madam.""",2025-04-24 13:26:54
+69c88eb4,dfd1d4d1,OrUjnuaVhtcBeg-guIBq53VvMR4vA,918795214737,I’m looking into the porter and finalizing the shipment,progress,The message indicates that the person is in the process of looking into the porter and finalizing the shipment.,2025-04-24 13:26:54
+2c81d571,33cb1e3c,PrAwE7rNbNdj918-wpQBq53VvMR4vA,919619000208,"hi, this is urgent -- can you book the porter now or ill do it myself",modification,Request to book the porter immediately or the sender will do it themselves.,2025-04-24 13:26:54
+5f7631aa,3e93cf37,eGzfpFqQVBw5A5SScVmzlg-wpcBq53VvMR4vA,919619000208,"Hi, tickets are home. There might be no one home when the pickup guy comes. What can be done?",question,Inquiry about what can be done if no one is home when the pickup guy arrives.,2025-04-24 13:26:54
+878d7e24,21884017,PrBTELiTYKTBuCs-whEBq53VvMR4vA,919619000208,"need urgent and careful porter 
+
+from
+
+‪Navi Mumbai Municipal Corporation
+Plot No.1, Sector 15A. Palm beach Junction 
+CBD Belapur 400614.
+
+to 
+
+901, Wing A, Building 2, Dheeraj Gaurav Heights, Off New Link Road opposite Infiniti mall, Andheri West, Mumbai, Maharashtra 400053, India
+
+----
+
+these are Coldplay tickets and need to be handled with care
+to coordinate with ‪+91 98699 08903‬ (Vijay) - need to speak to him politely and carefully
+You can use the reference: Ashima Mittal Ma'am 
+I spoke to him yesterday",modification,"The message provides specific instructions for the urgent and careful transport of Coldplay tickets, including coordination details with Vijay and a reference to Ashima Mittal Ma'am.",2025-04-24 13:26:54
+f5330d87,6c394068,PrBak3hm4LzJzHo-wvEBq53VvMR4vA,919619000208,please call the store and put me in conference. my phone is not usable at this point and Im not in BLR for 5 days.,modification,Request to call the store and set up a conference call due to the user's phone being unusable and their absence from BLR for 5 days.,2025-04-24 13:26:54
+07adf7dd,70796d5f,c9RyoTcOWO4_sbzYyCNotA-gogBq53VvMR4vA,919036082668,"Hey, the cab has arrived!",Progress,"The cab has arrived, indicating progress in the task of booking A1 cabs.",2025-04-24 13:26:57
+33df7788,6a9409ee,PrCVbJRsuCuz4o4-wocBq53VvMR4vA,919619000208,Can you send the number and otp,question,Request to send the number and OTP.,2025-04-24 13:26:57
+4ac4262f,70796d5f,szj2stOs4fCJVoXsnxfFMg-gmMBq53VvMR4vA,919036082668,"Hey Anirudh, the cab has just gotten booked, it's 2 minutes away!",progress,The cab has been booked and is 2 minutes away.,2025-04-24 13:26:57
+4b4afd02,22ef4403,PrACmLQnpZqMNgI-wr0Bq53VvMR4vA,919619000208,"no, please schedule express delivery pickup wash + iron for later today or tomorrow morning",modification,Request to schedule express delivery pickup for wash + iron for later today or tomorrow morning.,2025-04-24 13:26:57
+4e9f37fb,eb27cdb7,5PbTZhP0bXsBKJgRKkMZNw-wsMBq53VvMR4vA,919619000208,Can we push for 29th night given they're picking today?,modification,Request to change the schedule to the 29th night.,2025-04-24 13:26:57
+53cbd090,feaec8ae,PrAC5FQixhJwaM4-wjcBq53VvMR4vA,919619000208,"Please register for 10k whenever it opens 
+ask me for the relevant details",modification,Request to register for the 10k event whenever it opens and to ask for relevant details.,2025-04-24 13:26:57
+f04f3a15,855994fa,Ojd.w5p_r0JkLg-gjABq53VvMR4vA,916351492258,Sharing the thread for the pillow recommendation here,progress,Sharing information related to pillow recommendations.,2025-04-24 13:26:57
+11f756bf,22ef4403,K5rMKIU0QP04z1lXnp3uiA-gjEBq53VvMR4vA,918676049781,Yes Google reviews were fairly good and he agreed to deliver by the 30th Evening.,progress,"The delivery is confirmed to be by the 30th evening, and Google reviews were positive.",2025-04-24 13:26:57
+ae0ee98a,15a5dfd3,PrAo9FuP3GrfkOM-gqABq53VvMR4vA,916351492258,"Pillow recommendation is yours, ownership transfer isn't 
+Checking the discrepancy and confirming",question,Inquiry about the ownership transfer and discrepancy related to pillow recommendations.,2025-04-24 13:26:57
+cdfd9389,2d95f708,PrDX9XGhyYAYP.c-wqABq53VvMR4vA,919619000208,please share exact bill with me,question,Request to share the exact bill.,2025-04-24 13:26:57
+ad2e4ec8,1305a116,PrD5Ubs6BPAXSRE-wn8Bq53VvMR4vA,919619000208,"Hi, my phone is not working - can someone order the fish curry thing for me to the EF office?",request,Request to order fish curry to the EF office due to phone issues.,2025-04-24 13:26:57
+12119956,5c54b762,V0_yniGhw3JiFdKOPEh2_Q-gqkBq53VvMR4vA,918676049781,"Hi @919619000208, the cleaning guys are waiting at your doorstep.",progress,The cleaning team has arrived and is waiting at the doorstep.,2025-04-24 13:26:57
+cb69ddc3,0347de13,PrD5Tpptv8db.kg-wkkBq53VvMR4vA,919619000208,pls do the het naru task for me ttoo,modification,Request to perform the Het Naru task for the sender as well.,2025-04-24 13:26:57
+f6444153,5c54b762,9xibfJNhU_AcTrMohDxTww-gnUBq53VvMR4vA,918676049781,"Hi Anirudh, They couldn't visit today so i have scheduled the cleaning for tomorrow at 9 AM.",modification,The cleaning appointment has been rescheduled to tomorrow at 9 AM.,2025-04-24 13:26:57
+c919d3c6,7cb002b3,PrBWcr2Y8cnwKgc-wlEBq53VvMR4vA,919619000208,please prepay ride,modification,Request to prepay for a ride.,2025-04-24 13:26:57
+3892db66,7cb002b3,PrBmmfCLC96i71E-wooBq53VvMR4vA,919619000208,ride is not paid,question,Inquiry about the payment status of the ride.,2025-04-24 13:26:57
+ffff2e91,5d8e2c7a,PrDq0erYdLfcxtk-wiYBq53VvMR4vA,919619000208,"please book another back from this place back to office
+i think will be free around 6:15-6:30, will tell you",modification,Request to book transportation back to the office around 6:15-6:30 PM.,2025-04-24 13:26:57
+8cd91e71,80693d65,P19Nw.dUX9VfjA-gkwBq53VvMR4vA,919036082668,"Hey, sure!, Gmaps is showing 15 minutes, therefore will book a cab for 5, ensure that cab is here by 5:10 max",modification,"The message indicates a modification to the timing for booking a cab, ensuring it arrives by 5:10.",2025-04-24 13:26:57
+6772e032,80693d65,PrAjYjHFhEIVmxY-wloBq53VvMR4vA,919619000208,"pls book, i dont mind reaching early, cant be late",modification,Request to book a cab with a preference for arriving early to avoid being late.,2025-04-24 13:26:57
+6340b262,80693d65,XjUeOW27NJZXXGI2aD1ELQ-ghMBq53VvMR4vA,916290763353,"We have booked a cab for you , he's waiting downstairs.
+The otp is 0234",completion,"Cab has been booked and is waiting downstairs, OTP provided.",2025-04-24 13:26:57
+3cc5dcb6,aff7ee6c,KmFbwFosgf3C6qUickYMIw-wmYBq53VvMR4vA,919619000208,Please ask him to wait for 2 mins,modification,Request to ask someone to wait for 2 minutes.,2025-04-24 13:27:00
+7fb7c21a,33cb1e3c,OoELiPxyKuAGGA-gvUBq53VvMR4vA,919353696259,"Hey, the porter has arrived at your location.",progress,The porter has arrived at the location.,2025-04-24 13:27:00
+55a2ea89,33cb1e3c,OpEb.o50weqETw-glcBq53VvMR4vA,919353696259,"Hey, can i book the porter now.",question,Inquiry about booking the porter now.,2025-04-24 13:27:00
+55527ce5,4274c106,PrBWnP3fVT.ysw8-wrwBq53VvMR4vA,919619000208,"pls order a ""no Smoking"" sign of roughly this size, but with decent reviews that you can gift to a smoker friend to reach by 15th VRG
+https://www.flipkart.com/masstone-no-smoking-sign-board-4-inch-x-12-emergency/p/itm45f13bf487d41?pid=EMSFVGZQFYXDVZVF&lid=LSTEMSFVGZQFYXDVZVFDAV9IQ&marketplace=FLIPKART&cmpid=content_emergency-sign_8965229628_gmc&gQT=1",modification,"Request to order a ""No Smoking"" sign with decent reviews to gift to a smoker friend, specifying delivery by 15th.",2025-04-24 13:27:00
+b6cd9b88,33cb1e3c,Ok4YG33WaeQlPw-ghABq53VvMR4vA,919353696259,"Hey, we've booked a porter, he will arrive at the pickup location in the next 5 mins!",progress,A porter has been booked and will arrive at the pickup location in the next 5 minutes.,2025-04-24 13:27:00
+e122f14a,5df87232,PrDaX7TsRhJERxM-wnkBq53VvMR4vA,919619000208,"hi, please porter something from
+VRG
+to 
+102, 1st Floor, RR Prime, Sector 4 HSR
+tomorrow 10 AM",modification,Request to porter items from VRG to RR Prime at a specified time tomorrow.,2025-04-24 13:27:00
+e43e3144,21884017,PrCdwFXZJ9xtEI0-gkEBq53VvMR4vA,918676049781,"Hi, This has been successfully delivered.",completion,The Coldplay tickets have been successfully delivered.,2025-04-24 13:27:00
+a6a38cbf,0f765291,sh4iYH0wm6JH0rfeBiY_Ng-wkEBq53VvMR4vA,919619000208,Can you push for early delivery,modification,Request to push for early delivery,2025-04-24 13:27:00
+29bd2b04,60fa2b37,PrB85qd5QEvuohg-wq4Bq53VvMR4vA,919619000208,can you send Newyork based cheesecake from Aubree here around 7 PM?,modification,Request to deliver New York cheesecake from Aubree around 7 PM.,2025-04-24 13:27:00
+3df37a1a,fce69941,PlLFNKQAeM3Xm_FRWcEEyQ-wuABq53VvMR4vA,919619000208,"Told everyone, please send a reminder today
+
+Mention my UPI anirudhmittaljpr-1@okicici",modification,"Request to send a reminder and mention the UPI ""anirudhmittaljpr-1@okicici"".",2025-04-24 13:27:00
+25070ccd,b911e748,PrAzqmSRZXzxZu4-gvgBq53VvMR4vA,918676049781,"Hi, I've been following up daily, but I haven't received any response regarding the expense sheet. Could you please let me know how to proceed?",question,Inquiry about how to proceed with the expense sheet due to lack of response.,2025-04-24 13:27:00
+b40de93d,de387626,PrCHOd49PXLTKyc-wvwBq53VvMR4vA,919619000208,"new task: can you tell me the cost to courier something from BLR to BOM which is ~3kgs and shoe size box? 1 day and regular delivery costs b/w bluedart, delhivery, etc. 
+
+also, this is generally useful information son please record and send on main faff group too",question,Inquiry about the cost to courier a 3kg shoe-size box from BLR to BOM with both 1-day and regular delivery options from various courier services.,2025-04-24 13:27:00
+d1e49f20,9a7ec581,Z44a75iMR.kxmNqghueI.g-wrUBq53VvMR4vA,919619000208,"Please escalate
+If can't tonight, I'll refuse the delivery",modification,Request to escalate the issue if delivery cannot be completed tonight.,2025-04-24 13:27:02
+70012498,321d1b90,noIuMnlkpuXAy1mm5Y.MSA-wn4Bq53VvMR4vA,919619000208,Can you get it delivered by tonight by urgent delivery?,question,Request for urgent delivery by tonight.,2025-04-24 13:27:02
+735eee6b,fa34acb8,HztPQ1ChJi8h3kJbqVDjQg-gmUBq53VvMR4vA,916290763353,We had called them regarding delivery and they had said if can be done by 15th afternoon in front of me and Jervin,progress,Confirmation of delivery by 15th afternoon was discussed with the delivery service.,2025-04-24 13:27:02
+d6b698a8,79f098c7,PrCBaUHawWT4jxc-wjQBq53VvMR4vA,919619000208,can you confirm the final amount and remind him to pay?,question,Request to confirm the final amount and remind someone to pay.,2025-04-24 13:27:02
+25daa6eb,fd4e0c42,PrBHZAz8OHR5bD4-wp8Bq53VvMR4vA,919619000208,Can you try negotiating the price too?,modification,Request to negotiate the price.,2025-04-24 13:27:02
+24873e4c,4051d43d,vMRB87UvEcY0xB1_Y3COsQ-gkYBq53VvMR4vA,916290763353,"Hi,
+Tried to contact them since a while and they haven't been answering our calls .
+Received a tracking link from their side which shows that pickup is generated from their side and the order is shipped . Delivery date is not specified yet. 
+Sorry for the delay will check with them as soon as they pickup our calls",progress,"Received a tracking link indicating that the pickup is generated and the order is shipped, but the delivery date is not specified yet.",2025-04-24 13:27:02
+4c617725,c99a6ada,PrBq1kVAER_qTdA-wswBq53VvMR4vA,919619000208,book at URU too?,question,Inquiry about booking at URU as well.,2025-04-24 13:27:02
+83648e28,8ba00121,W9ukJfdCO6rXlNuUOmOUFw-wioBq53VvMR4vA,919619000208,"Yes please 
+Need to ask the delivery driver where he kept it and who gave it to them",question,Inquiring with the delivery driver about the location and recipient of the delivery.,2025-04-24 13:27:04
+cb6afc83,9a7ec581,OkzF8d2QSROnIg-ggMBq53VvMR4vA,919353696259,Have spoken to DTDC regarding the issue. They mentioned that they are escalating the issue and will prioritise this and get it resolved as soon as possible. Will follow up with them regarding this issue and keep you updated.,progress,DTDC is escalating the issue and will prioritize resolving it. Follow-up will be conducted to keep updated.,2025-04-24 13:27:04
+ce85d465,7f110f2e,2xxrQwLlZ.1BvhIblNWvKA-wgUBq53VvMR4vA,919619000208,"Hi, some tickets from BMS had to be delivered and they were 2 days back but none of my flatmates saw it or the security guard. Can you call bluedart and check?
+
+Hi, The shipment for Booking ID: MUBO000P3E2CAN has been delivered on 25/02/2025 2:53:00 pm.For any queries, visit support.bookmyshow.com. Team BookMyShow!
+
+Your order with Blue Dart AWB# 20772951732 was delivered to ANIRU. Please Rate our Service on https://acl.cc/BLUDRT/PAoV4pqA
+
+
+
+I spoke to the delivery guy and he took OTP. He did say he was at MM Manor House.",question,The message is asking to call Blue Dart to check on the delivery status of tickets that were supposedly delivered but not received by the intended recipients.,2025-04-24 13:27:04
+b3255646,7360f579,h9lhmk8het620Ft1mUOCzg-wk8Bq53VvMR4vA,919619000208,"Can you also follow up on the bobble head pls? @919353696259 
+
+The delivery was supposed to happen on 15th Feb and it hasn't yet + the parcel is lost right now.",progress,"Follow-up requested for the missing bobble head delivery, which was supposed to happen on 15th Feb but is currently lost.",2025-04-24 13:27:04
+97ae24a6,9a7ec581,RrEdZs1OYjIxkComIR1Dnw-wtwBq53VvMR4vA,919619000208,Got a call from Bluedart for VRG problem and they're escalating,progress,Bluedart is escalating the VRG problem.,2025-04-24 13:27:04
+5afaf70c,7e016cd7,PrBSYWp3udofr3w-wgUBq53VvMR4vA,919619000208,@919353696259 @919036082668 can you please resolve the dtdc thing today?,question,Request to resolve the DTDC issue today.,2025-04-24 13:27:04
+2e57294a,7e016cd7,XcOeVeoIDv3up.KzStNSSw-glUBq53VvMR4vA,919353696259,Contacted them and the final update they gave was the branch team of DTDC will reinitiate the delivery process. And also check with the delivery team regarding this within 24 hours. Will follow-up on this again today.,progress,"The branch team of DTDC will reinitiate the delivery process, and there will be a follow-up with the delivery team within 24 hours.",2025-04-24 13:27:04
+5315ee38,7e016cd7,PrBapAReL_Prdd0-wowBq53VvMR4vA,919619000208,@919353696259 any update on dtdc?,question,Inquiry about the update on the DTDC issue.,2025-04-24 13:27:04
+b651832a,33cb1e3c,PrDg.UTsqPfvp2k-gqcBq53VvMR4vA,918955606886,The porter will arrive in approximately 20 mins,progress,The porter is scheduled to arrive in approximately 20 minutes.,2025-04-24 13:27:04
+21aa6718,33cb1e3c,PrAlHc3q3UdHn3w-gu8Bq53VvMR4vA,918955606886,The porter has reached the location and we have placed the order.,progress,"The porter has reached the location, indicating progress in the task of booking the porter.",2025-04-24 13:27:04
+de86f335,33cb1e3c,OgWV8RAt9IZyNA-gj4Bq53VvMR4vA,919353696259,"We tried contacting the shop but they were not reachable, so we have booked the porter to order from the shop and deliver it to office.",progress,The porter has been booked to order from the shop and deliver it to the office.,2025-04-24 13:27:04
+6663c22b,7360f579,NtrJyy2DZN9WDAkBO4sbiw-wmcBq53VvMR4vA,919619000208,Anything on the bobblehead?,question,Inquiry about the status of the bobblehead delivery.,2025-04-24 13:27:04
+c1840b4f,5df87232,fEEKI5tbfrv.lgEchFPfkg-ggQBq53VvMR4vA,919353696259,"Hey, the BookMyShow order is with the security. The Bluedart executive send this picture after going to VRG.",progress,"The BookMyShow order has been delivered to security, and a picture was sent by the Bluedart executive after going to VRG.",2025-04-24 13:27:04
+0d43996b,5df87232,RitWa0OgmqJSFZHokG5gkg-gowBq53VvMR4vA,919353696259,"Hey, we have booked the porter. Should be in VRG in ~10 min.",progress,The porter has been booked and is expected to arrive in VRG in approximately 10 minutes.,2025-04-24 13:27:04
+5a7fdb4e,1de8f0c8,PxFlCb1Qdyuu7w-gnMBq53VvMR4vA,916290763353,can you share me the Bombay address that you want the Product to be delivered so I can check if BlueDart can do an express delivery,question,Request for the Bombay delivery address to check express delivery feasibility with BlueDart.,2025-04-24 13:27:04
+a8fafaae,d425a0f8,PrCJNVh95S6NP5E-wkQBq53VvMR4vA,919619000208,"Please book porter and get it done
+clothes are with security at VRG cc: @919353696259",progress,Request to book porter and collect clothes from security at VRG.,2025-04-24 13:27:04
+e06034f0,1797ee1f,PrA_DRTRMirlEPc-ws0Bq53VvMR4vA,919619000208,"please send ""Oulive"" book to
+
+B-62, Bysani Skyway Jayanagar Block 1 (Sanjeevni)",modification,"The message provides the delivery address for sending the ""Oulive"" book.",2025-04-24 13:27:04
+e555579b,14439ecc,Q1sFg9LBPelz5SPglPs1.w-guABq53VvMR4vA,919353696259,"Hey, we spoke with Waash point regarding the Laundry. They confirmed they can get the cloths cleaned in 2 days and delivered on 15th or at max by 16th morning and it would cost Rs. 89/KG. They also confirmed they would be working on Holi.",progress,"Waash point confirmed laundry can be cleaned in 2 days and delivered by 15th or 16th morning at Rs. 89/KG, and they will be working on Holi.",2025-04-24 13:27:07
+a5dfc250,5df87232,OiDDeLKLy1OsdQ-gnIBq53VvMR4vA,919353696259,"Hey, the porter has picked up the order. Should be there in EF office in ~ 30 min.",progress,The porter has picked up the order and it should arrive at the EF office in approximately 30 minutes.,2025-04-24 13:27:07
+9d26787e,33cb1e3c,Oh4p.fPYWjU6NA-gjYBq53VvMR4vA,919353696259,The order is ready. We have booked the porter to pick up the order.,progress,"The order is ready, and the porter has been booked to pick up the order.",2025-04-24 13:27:07
+18ea3fe7,33cb1e3c,Ot5e5tIwmHEJjA-goQBq53VvMR4vA,919353696259,"The order is still getting ready, after which we will book the porter and let you know the exact ETA.",progress,"The order is still getting ready, and the porter will be booked once it's ready, with an exact ETA to be provided.",2025-04-24 13:27:07
+c2df9025,33cb1e3c,OhC7MiVcHcrVXg-gvEBq53VvMR4vA,919353696259,The porter should reach the pickup location in ~ 10 min.,progress,The porter is expected to reach the pickup location in approximately 10 minutes.,2025-04-24 13:27:07
+4dc19fc0,e04c6283,PrB85ZK_0JL9kxQ-wugBq53VvMR4vA,919619000208,can someone send $sheet and $wallet here?,question,Request to send $sheet and $wallet.,2025-04-24 13:27:07
+4bcb4ef9,33cb1e3c,PrCVDyOY0f7n59U-gl4Bq53VvMR4vA,918676049781,"Hi, This is taking a bit of time as the porter guy is still not there. We'll update you once he reaches.",progress,"Waiting for the porter to arrive, will update once he reaches.",2025-04-24 13:27:07
+2de4d385,d96b4025,PrAuIgw7F1LE8Qo-wnsBq53VvMR4vA,919619000208,can you order 2x maharaja iced coffee from namma filter coffee to EF office whenever possible no hurr,modification,"Request to order 2x Maharaja Iced Coffee from Namma Filter Coffee to EF office whenever possible, with no hurry.",2025-04-24 13:27:07
+301124b8,33cb1e3c,OiJldUo7nhXNmg-gqABq53VvMR4vA,919353696259,Ok. Let me try to get the number of the warehouse operator and book the porter.,progress,Attempting to obtain the warehouse operator's number and book the porter.,2025-04-24 13:27:07
+ed4ac0c8,1d54598d,PrAPtriRegR9w5Q-wl0Bq53VvMR4vA,919619000208,jervin can we do a porter and pickup right now?,question,Inquiry about the possibility of doing a porter and pickup immediately.,2025-04-24 13:27:07
+5149049a,7360f579,OgWAXZRmVKCu4w-grcBq53VvMR4vA,919353696259,"Got a call from the guy who delivered. As the address wasn’t mentioned properly it was returned. he told now it would be hard to locate the parcel as he is not in the warehouse but he will deliver it tomorrow for sure. I have also provided him with the right address to deliver the parcel. 
+
+Delivery guys No. : 8108087850",progress,"The delivery was returned due to an incorrect address, but the correct address has now been provided, and the delivery is expected tomorrow.",2025-04-24 13:27:07
+dd048cd7,7e016cd7,Op9C7.6IGcCgdA-gsgBq53VvMR4vA,916351492258,"Hi - spoke to the DTDC number and they shared that the parcel was not actually handled by the Andheri branch. 
+They have given the contact number of someone at the main office who should be able to help us track it down. However, we have not been able to reach them yet after multiple attempts.
+cc: @919353696259",progress,"The DTDC issue is being addressed, with contact information provided for further assistance, but there has been difficulty reaching the main office contact.",2025-04-24 13:27:07
+b1376691,7e016cd7,OlSLfT9cE7Cw6w-ggsBq53VvMR4vA,919353696259,He will reach the DTDC office in another 15 min. Will book a porter and send it to the locaation.,progress,The person will reach the DTDC office in 15 minutes and plans to book a porter to send the item to the location.,2025-04-24 13:27:07
+e6d3716f,33cb1e3c,OgV3JXAUS._iGQ-grQBq53VvMR4vA,919353696259,"Hey, the porter has reached your location. Should be in your doorstep in some time. we have prepaid for the order.",progress,The porter has reached the location and will be at the doorstep soon. The order has been prepaid.,2025-04-24 13:27:07
+1bc07034,d96b4025,cekjNJBtzwEr9JPXRzMYdw-wsgBq53VvMR4vA,919619000208,"Hi, can you book porter from Namm filter coffe Koramangala to VRG and ask them to bring Maharaja Iced Coffee?",modification,Request to book porter from Namm Filter Coffee Koramangala to VRG and bring Maharaja Iced Coffee.,2025-04-24 13:27:07
+79541e4a,5df87232,OgC6ylN3mz4nzA-guEBq53VvMR4vA,919353696259,The porter has delivered the parcel.,completion,The parcel has been delivered by the porter.,2025-04-24 13:27:07
+db9d81f9,5df87232,mEZCcFOZ2rIowOkfm4aLZg-guQBq53VvMR4vA,919353696259,The porter has picked up the parcel should be in the location in ~10 min.,progress,The porter has picked up the parcel and it should arrive at the location in approximately 10 minutes.,2025-04-24 13:27:07
+4568f70e,237c8f52,PrCypAtRI9_VakY-wsgBq53VvMR4vA,919619000208,"@918676049781 sent the name of the marathon and bib number sent over email. Can you use that move my TCS reg?
+
+also, someone told me strava link are also accepted. please check.",modification,"Request to use marathon name and bib number to move TCS registration, and to check if Strava links are accepted.",2025-04-24 13:27:09
+e88a5f07,33cb1e3c,_cSv16gVGM0aRVoyJlHMrQ-gmcBq53VvMR4vA,919353696259,We have prepaid for the porter,progress,The porter service has been prepaid.,2025-04-24 13:27:09
+78d03778,af02252e,PrCoNJLD0CgaAH4-guMBq53VvMR4vA,919916976615,"Hi, we checked on UC but weren't able to find a suitable service option available for your specified request. Hence, we tried to contact the Daikin customer care to schedule a visit for the repair. The prolonged duration in responding back with an apt solution was due to the busy phone line at their customer care.",progress,"Attempted to contact Daikin customer care to schedule a visit for repairs, but faced delays due to a busy phone line.",2025-04-24 13:27:09
+bc38203f,70796d5f,PrAnNIYgm4LiWe0-wjcBq53VvMR4vA,919619000208,1 has bad rating,modification,"The task has a bad rating, indicating a potential issue with the service or experience.",2025-04-24 13:27:09
+e4c77ccc,6b0420ac,t167.kdWsvEHLN2F4yN6BA-giABq53VvMR4vA,919353696259,"Hey, the porter has picked up the drink. Should be in Raheja residency in ~20 min.",progress,The porter has picked up the drink and is expected to deliver it to Raheja residency in approximately 20 minutes.,2025-04-24 13:27:09
+bccfea0e,33cb1e3c,Os4pXz32Gg2c6A-gicBq53VvMR4vA,919353696259,The porter should be in you location in ~10 min.,progress,The porter is expected to arrive at the location in approximately 10 minutes.,2025-04-24 13:27:09
+83795bf7,5fc9c5c6,PrBRH494ozgviw4-wgwBq53VvMR4vA,919619000208,and related followup was i need someone to come clean utnesils today,modification,Request for someone to come and clean utensils today.,2025-04-24 13:27:09
+cbab6b8f,e6aa0ce5,OvwMLLsTNZpF5Q-ggABq53VvMR4vA,919353696259,"Apologies for the misunderstanding, though we need a maid, including utensils cleaning. We are enquiring with some local agencies for the same.",progress,"Enquiring with local agencies for a maid, including utensils cleaning.",2025-04-24 13:27:09
+0189149f,33cb1e3c,OhnwpitPs8FrcQ-ghYBq53VvMR4vA,919353696259,We have booked the porter it should reach the pickup location in ~ 10 min.,progress,The porter has been booked and is expected to reach the pickup location in approximately 10 minutes.,2025-04-24 13:27:09
+d9dfd9f8,33cb1e3c,OvbPOJKUResktQ-gssBq53VvMR4vA,919353696259,"Sure, will book the porter and keep you updated.",progress,"The task to book the porter is in progress, and the person will keep the requester updated.",2025-04-24 13:27:09
+6f1e7658,33cb1e3c,EW.6AN4ig17Nm3TozKT_9A-wl0Bq53VvMR4vA,919619000208,Book porter in 10 mins so it matches the time the order is ready,modification,Request to book the porter in 10 minutes to align with the order readiness time.,2025-04-24 13:27:09
+e71598f1,33cb1e3c,OqemcBxFL2FVeA-goEBq53VvMR4vA,919353696259,We have placed the order. The order should be ready in ~ 20 min. We will book the porter once the order is ready and keep you updated.,progress,"The order has been placed and will be ready in approximately 20 minutes. The porter will be booked once the order is ready, and updates will be provided.",2025-04-24 13:27:09
+4afbaf62,3ba35239,2iSHw1IgacLeKZTOdGNS2Q-wiMBq53VvMR4vA,919619000208,"Hi, can someone check if Urban Company instant maid thing is available in BLR?
+Need one for VRG",question,Inquiry about the availability of Urban Company instant maid service in BLR for VRG.,2025-04-24 13:27:09
+ec220b78,33cb1e3c,Oggd_bQaHXg3dA-gnEBq53VvMR4vA,919353696259,The porter has reached your location. He should be in your doorsteps.,progress,The porter has arrived at the location for the task.,2025-04-24 13:27:09
+5870de91,5df87232,OjZU8in.2uuj.Q-glgBq53VvMR4vA,919353696259,"Hey, the porter has picked the parcel will reach your location in ~35 mins.",progress,The porter has picked up the parcel and it will reach the location in approximately 35 minutes.,2025-04-24 13:27:09
+4d1ea6df,33cb1e3c,OptTvg9Z9xsReA-gu8Bq53VvMR4vA,919353696259,Got it. Booking porter now.,progress,Booking porter is in progress.,2025-04-24 13:27:09
+5cb66872,f2591b1a,OgkFcisBVOCiuw-gq4Bq53VvMR4vA,919353696259,"Sure, Could you give me the exact address of raheja residency",question,Request for the exact address of Raheja Residency,2025-04-24 13:27:09
+50eb96a5,60fa2b37,Zo9S_UT6hvnVpQVesufotQ-wpIBq53VvMR4vA,919619000208,A107,completion,"The message ""A107"" indicates the completion of the task to deliver New York cheesecake from Aubree.",2025-04-24 13:27:09
+b481d4bd,e6aa0ce5,Onx.yMw5WsYgjg-gkoBq53VvMR4vA,919353696259,We have been trying to contact the maid service but his number seems to be switched off. Couldn’t find an alternative as of yet.,progress,"Attempted to contact maid service, but the number is switched off and no alternative has been found yet.",2025-04-24 13:27:09
+c54056b4,5df87232,OvCQXVplmt_4Lw-giMBq53VvMR4vA,919353696259,"Hey, we spoke with Tonique. They don’t do the delivery, but she mentioned we could book a porter from Tonique to Raheja Residency and they would keep the drink packed. The total cost of this would be Rs. 265 with an additional porter charge of Rs. 61.",progress,"Arrangements made to book a porter from Tonique to Raheja Residency for delivery, with cost details provided.",2025-04-24 13:27:09
+e9f82961,1719eae5,PrDrqXPk98_2QXc-wooBq53VvMR4vA,919619000208,"new task: Dollaly in Andheru and Stambh in Andheri both serve ""Coffee Orange Mead"". I need your help in helping me find it in BLR.
+1. either find a pub in BLR serving that
+2. or find their manufacturer and help me source them (can buy bigger quantity like 10L too)
+
+This need some online research and effort as some plain phone calls wouldn't do",modification,"The task now includes finding a pub in BLR serving ""Coffee Orange Mead"" or sourcing it directly from the manufacturer, potentially in larger quantities like 10L.",2025-04-24 13:27:09
+dc47b74f,e6aa0ce5,Os2y.rJ4uMeFQQ-ggkBq53VvMR4vA,919353696259,"Hey, we tried following up with the maid service, but they have been unreachable. We are also checking with other services where we can find this service but are unable to find one for the same. We will keep you updated if we get the response from the service which we had already confirmed.",progress,"Attempted to follow up with the maid service, but they have been unreachable. Checking with other services but unable to find one. Will update if a response is received from the confirmed service.",2025-04-24 13:27:09
+bc82b10d,1719eae5,Ogla6zpEqxEf8A-giUBq53VvMR4vA,919353696259,"Sure, Will find where we get this from.",progress,The message indicates progress in finding where to get Coffee Orange Mead in BLR.,2025-04-24 13:27:09
+7235112f,b7943b3d,PrAV9kS6cNiHlTg-gqgBq53VvMR4vA,919880232006,"Yes, I only need to order Nutty Hazlenut right?",question,The message is asking for confirmation about ordering Nutty Hazlenut.,2025-04-24 13:27:11
+e954b620,a4d29a18,PrBcr3LC_27w09w-wlMBq53VvMR4vA,919619000208,@919880232006 can you find this on blinkit and order fro EF office? i have ordered for home for now,progress,Request to find and order an item on Blinkit for EF office.,2025-04-24 13:27:11
+b2bbeaf7,9f85baf0,PrAwxheceSxR9es-wgUBq53VvMR4vA,919619000208,close task,completion,The task has been marked as closed.,2025-04-24 13:27:11
+495f5cd9,a4d29a18,PrAGoRTZseAunm4-wiMBq53VvMR4vA,919619000208,ordered from blinkit,completion,Ordered item on Blinkit for EF office,2025-04-24 13:27:11
+5870d8ba,de345f74,0VUmdVvzUPGITPzpJC9dsg-whIBq53VvMR4vA,919619000208,Please book Monday 7 PM and add to my calendar,modification,Request to book an event on Monday at 7 PM and add it to the calendar.,2025-04-24 13:27:11
+8f9c92be,d96b4025,PrBjKFzpGrK85Kc-wpkBq53VvMR4vA,919619000208,@919880232006 can you order 2 maharaja iced coffee from namma filter coffee to the EF office? ask them to make strong,modification,Request to order 2 Maharaja Iced Coffee from Namma Filter Coffee to the EF office with a specification to make them strong.,2025-04-24 13:27:11
+825f1f9f,c49b234f,PrBGnJxczus8vJg-wmIBq53VvMR4vA,919619000208,"also, please find Padel courts in BLR. I think there's one in Tiger Koramangala, but must be others too. Close to HSR. Fina. slot on Sunday 5-7 PM also.",modification,"Request to find Padel courts in BLR, specifically mentioning Tiger Koramangala and others close to HSR, and to find a slot on Sunday from 5-7 PM.",2025-04-24 13:27:11
+24910472,1797ee1f,PrDx2AxqOMVWcbk-gncBq53VvMR4vA,917259220798,"Hey, the book has been picked up from the stores and will reach the location in ~50 mins",progress,"The book has been picked up from the stores and is on its way to the specified address, expected to arrive in approximately 50 minutes.",2025-04-24 13:27:11
+e81b83a4,782a0268,PrCGw.rK6VQqNwE-wlsBq53VvMR4vA,919619000208,please dot he whiteboard task,completion,The message is a request to complete the whiteboard task.,2025-04-24 13:27:13
+42a57f18,60df3785,Onh9eCaAzA.bmg-gucBq53VvMR4vA,916351492258,this is done; can you send your QR image once?,completion,"The task of sending the QR image is completed, and the sender is requesting the recipient to send their QR image.",2025-04-24 13:27:13
+280be10b,2ac1097f,BAW.L6aivLxegZ7wUkaKpQ-wrUBq53VvMR4vA,919619000208,Please fuck the badminton court we went to and also get the refund,modification,Request to cancel the badminton court reservation and obtain a refund.,2025-04-24 13:27:13
+c8b029c8,1305a116,OinaBkOedJeOkQ-ggYBq53VvMR4vA,919353696259,Have placed an order of Fish meals from Bong Bhoj. Should reach office in ~15 min.,progress,Order of Fish meals from Bong Bhoj has been placed and should reach the office in approximately 15 minutes.,2025-04-24 13:27:13
+ca8e0806,57e9a589,PrChQFCXx4XbNGo-wmUBq53VvMR4vA,919619000208,pls order some fish based lunch that can come before 5 PM,modification,Request to order fish-based lunch to be delivered before 5 PM.,2025-04-24 13:27:13
+b1fb3c17,5b14b296,PrANJo_tivgpP38-wsABq53VvMR4vA,919619000208,can someone order butter chicken rice from ITC quickly?,question,Request to order butter chicken rice from ITC quickly.,2025-04-24 13:27:16
+cbf31833,5cdf7bec,PrC8TFGQJxoYtDI-wmYBq53VvMR4vA,919619000208,can you pls get them framed for office by EOD? size roughly 1x2ft? you decide,modification,"Request to frame items for the office by the end of the day, with a size of roughly 1x2ft.",2025-04-24 13:27:16
+730d38b9,6c17e5e8,PrDglIqFJ_xjL_k-wgsBq53VvMR4vA,919619000208,@919880232006 can you help find ice box rental for a few hours?,question,Request for help in finding an ice box rental for a few hours.,2025-04-24 13:27:16
+297cecb5,586bf6d0,3fCrFTvxjgOOTMXnHvEbYQ-wl0Bq53VvMR4vA,919619000208,Can you find me a doctor that deals in Carpel tunnel syndrome/ nerve related issues near office? Should be v good reviewed I'm free for appointment 3-7 PM,modification,Request to find a doctor for carpal tunnel syndrome with good reviews and availability for an appointment between 3-7 PM.,2025-04-24 13:27:16
+84d63517,ccd97692,PrDGSOiRjFvShCg-wvABq53VvMR4vA,919619000208,what do i do with 4 tv of same size? tell me the price of 4 different size isntead,modification,Request to provide prices for 4 different TV sizes instead of the same size.,2025-04-24 13:27:16
+5a59770b,23a1153c,oS1KxaMPfIjPSKJjt32HWA-wkkBq53VvMR4vA,919619000208,Please raised tickets for both,modification,Request to raise tickets for both tasks.,2025-04-24 13:27:16
+deb8518b,dd125ef6,PrCtKGZIwxcUQbg-wtgBq53VvMR4vA,919619000208,"big task:
+need to find where all Pixel 9a is available 
+- without any exchange
+- with exchanging pixel 6 
+Cost etc - i have hsbc debit card",modification,"Request to find availability and pricing for Pixel 9a with and without exchanging Pixel 6, considering the use of an HSBC debit card.",2025-04-24 13:27:18
+f582c652,99772117,PrBvlzO2SFbWU0o-gggBq53VvMR4vA,919108814709,Checking for the available slots and confirming the appointment. The consultation fee would be Rs. 500.,progress,Checking for available slots and confirming the appointment with a consultation fee of Rs. 500.,2025-04-24 13:27:18
+3a7a75c6,99772117,PrDgZ2kLu0MJBlg-wrUBq53VvMR4vA,919619000208,"book 1 for 3 PM and add to cal 
+
+consultation fee is missing",modification,Request to book Dr. Priya for consultation at 3 PM and add to calendar; consultation fee information is missing.,2025-04-24 13:27:18
+1e9ea229,6650370a,PrB1DRk7xtRdcvE-wsUBq53VvMR4vA,919619000208,"he was not willing to work properply, pls cancel the book and raise a complaint against him",modification,Request to cancel the booking and raise a complaint against the person mentioned.,2025-04-24 13:27:18
+342c81c5,5cdf7bec,yqLnHHPzuPgLxxM-wjwBq53VvMR4vA,919619000208,"Good morning 🌻
+
+How can we help you today?
+
+————
+
+1. Find pixel 9A in BLR : 
+2. Good dentist in HSR : 
+3. find cheap TV screen for office : Shared the best possible price, waiting for an update from the user if we should look for new or second-hand
+4. find a cheap whiteboard alternative : we have found few vendors, need to finalise tomorrow
+Do let us know if you need any help with these!",progress,"Found a few vendors for a cheap whiteboard alternative, need to finalize tomorrow.",2025-04-24 13:27:18
+b79e18dd,ec5b7f31,PrC6XTvt_ZW0ORg-kocBq53VvMR4vA-1i0ibEY,919880232006,"Hi, we found a laundry service in HSR, sharing the details below:
+
+Waashub: 9900601234 (https://maps.app.goo.gl/mHbD5aTc6bHFLHro8)
+- Express service: Rs. 135/kg and 1-day delivery
+- Free pick up and drop: Minimum 4 kgs",completion,Found a laundry service in HSR and shared the details.,2025-04-24 13:27:21
+1ecad80c,24ec933d,PrCfY.Dh44nARIY-klsBq53VvMR4vA-1YKZikw,917019134540,can you help me wit 1 or 2 names,question,Request for help with providing 1 or 2 names.,2025-04-24 13:27:21
+dea92b30,749f731e,WlqX_MpFH6Gutwtp1JBxOQ-0l4Bq53VvMR4vA-1h2QV5A,919619000208,"Also, please schedule wash + iron from my house (gave to security)
+
+Need by tomorrow night 
+
+Whatever is cheapest and reliable",modification,"Request to schedule a wash and iron service from the house, specifying the need by tomorrow night and preferring the cheapest and reliable option.",2025-04-24 13:27:21
+8d241855,ba26c59e,PrAFSgfZz9JglTU-ktsBq53VvMR4vA-1YKZikw,917019134540,The order has reached to the EF office.,completion,The order has been delivered to the EF office.,2025-04-24 13:27:21
+353b2a3d,782a0268,yqI.LWmDWICL8rg-0rUBq53VvMR4vA-1h2QV5A,919619000208,"Good morning 🌻
+
+How can we help you today?
+
+————
+
+1. Phone repair : 
+2. find cheap TV screen for office : Shared the best possible price, waiting for an update from the user if we should look for new or second-hand
+3. find a cheap whiteboard alternative : we have found few vendors, need to finalise tomorrow
+Do let us know if you need any help with these!",progress,"Found a few vendors for a cheap whiteboard alternative, need to finalize tomorrow.",2025-04-24 13:27:21
+ac8a4e02,0d148e48,Oh9Of.N5XJk3Yw-kuEBq53VvMR4vA-1YKZikw,917019134540,"Hey Anirudh 
+Checked with subko, their mango French toast they serve only 1 piece, please confirm how many should I order 
+Approx cost per portion is 500 and it might take 60-90 mins",question,"The message is asking for confirmation on the quantity of mango French toast to order, given that each portion consists of only one piece and the cost and time details are provided.",2025-04-24 13:27:21
