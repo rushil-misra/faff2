@@ -24,7 +24,7 @@ chat_1_new['created_at'] = pd.to_datetime(chat_1_new['created_at'])
 
 
 client = chromadb.Client()
-embedding_func = OpenAIEmbeddingFunction(api_key=os.getenv('OPENAI_API_KEY'))  # Or use None for default
+embedding_func = OpenAIEmbeddingFunction(api_key=os.getenv('OPENAI_API_KEY')) 
 
 client = chromadb.PersistentClient(path="./memory_db")
 collection = client.get_or_create_collection(name="user_facts")
